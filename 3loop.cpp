@@ -6,7 +6,7 @@ void print1(int n){
     for(int j = 0 ; j<n-i-1 ; j++){
         cout<<" ";}
         //for star
-        for(int j=0 ; j<2*i+1 ; j++ ){
+        for(int j=0 ; j<2*i-1 ; j++ ){
             cout<<"*";}
             //for space 
             for(int j=0 ; j<n-i-1 ; j++){
