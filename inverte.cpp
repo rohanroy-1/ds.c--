@@ -10,7 +10,7 @@ void print1(int n){
         for(int j=0 ; j<2*n-(2*i+1) ; j++){
             cout<<"*";
         }
-         
+         //print space
         for(int j=0 ; j<i ; j++ ){
             cout<<" ";
         
